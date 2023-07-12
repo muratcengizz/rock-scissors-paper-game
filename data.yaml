@@ -1,0 +1,8 @@
+path: C:/Users/murat/Documents/computer_vision3/rock_paper_scissors
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['Paper', 'Rock', 'Scissors']
+
